@@ -1,0 +1,545 @@
+2020-05-11 16:53:17 [862  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 230752 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 16:53:17 [863  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 16:53:18 [1616 [main] INFO  wb.im.core.server.WbNettyServer:34 - 消息服务开始启动（1111）
+2020-05-11 16:53:18 [1618 [main] INFO  wb.im.core.server.WbWebNettyServer:34 - WEB消息服务开始启动（1112）
+2020-05-11 16:53:18 [1662 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 16:53:18 [1987 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 16:53:19 [2362 [main] INFO  wb.im.control.App:59 - Started App in 2.051 seconds (JVM running for 2.787)
+2020-05-11 16:53:19 [2364 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 16:53:19 [2367 [Thread-7] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 16:53:19 [2379 [Thread-7] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 16:53:19 [2379 [Thread-7] INFO  wb.im.core.server.WbWebNettyServer:41 - WEB消息服务开始关闭(1112)
+2020-05-11 16:53:19 [2382 [Thread-7] INFO  wb.im.core.server.WbNettyServer:41 - 消息服务开始关闭(1111)
+2020-05-11 16:55:25 [748  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 235620 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 16:55:25 [748  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 16:55:27 [2126 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 16:55:27 [2139 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 16:55:27 [2147 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 16:55:27 [2147 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 16:55:27 [2248 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 16:55:27 [2248 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1395 ms
+2020-05-11 16:55:27 [2347 [main] INFO  wb.im.core.server.WbNettyServer:34 - 消息服务开始启动（1111）
+2020-05-11 16:55:27 [2348 [main] INFO  wb.im.core.server.WbWebNettyServer:34 - WEB消息服务开始启动（1112）
+2020-05-11 16:55:27 [2371 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 16:55:27 [2674 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 16:55:28 [3148 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 16:55:28 [3387 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 16:55:28 [3406 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 16:55:28 [3409 [main] INFO  wb.im.control.App:59 - Started App in 3.284 seconds (JVM running for 3.873)
+2020-05-11 16:55:28 [3411 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:31:39 [1306 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 235912 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:31:39 [1306 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:31:40 [2868 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:31:40 [2883 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:31:40 [2896 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:31:40 [2896 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:31:40 [3004 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:31:40 [3005 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1570 ms
+2020-05-11 17:31:41 [3119 [main] INFO  wb.im.core.server.WbNettyServer:34 - 消息服务开始启动（1111）
+2020-05-11 17:31:41 [3121 [main] INFO  wb.im.core.server.WbWebNettyServer:34 - WEB消息服务开始启动（1112）
+2020-05-11 17:31:41 [3145 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:31:41 [3601 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:31:41 [3998 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:31:42 [4278 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:31:42 [4299 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:31:42 [4302 [main] INFO  wb.im.control.App:59 - Started App in 4.173 seconds (JVM running for 5.048)
+2020-05-11 17:31:42 [4304 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:32:05 [27950 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:32:05 [27950 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:32:05 [27957 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 6 ms
+2020-05-11 17:33:52 [1718 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 237460 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:33:52 [1721 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:33:53 [2894 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:33:53 [2909 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:33:53 [2918 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:33:53 [2919 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:33:54 [3032 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:33:54 [3033 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1264 ms
+2020-05-11 17:33:54 [3145 [main] INFO  wb.im.core.server.WbNettyServer:34 - 消息服务开始启动（1111）
+2020-05-11 17:33:57 [6462 [main] INFO  wb.im.core.server.WbWebNettyServer:34 - WEB消息服务开始启动（1112）
+2020-05-11 17:33:57 [6516 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:33:57 [6986 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:33:58 [7522 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:33:58 [7807 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:33:58 [7831 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:33:58 [7835 [main] INFO  wb.im.control.App:59 - Started App in 7.684 seconds (JVM running for 8.71)
+2020-05-11 17:33:58 [7837 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:36:04 [133447 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:36:04 [133450 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:36:04 [133472 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:36:04 [133473 [Thread-11] INFO  wb.im.core.server.WbWebNettyServer:41 - WEB消息服务开始关闭(1112)
+2020-05-11 17:36:04 [133477 [Thread-11] INFO  wb.im.core.server.WbNettyServer:41 - 消息服务开始关闭(1111)
+2020-05-11 17:36:08 [959  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 236552 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:36:08 [962  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:36:09 [2461 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:36:09 [2478 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:36:09 [2487 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:36:09 [2487 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:36:09 [2598 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:36:09 [2599 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1450 ms
+2020-05-11 17:36:10 [2714 [main] INFO  wb.im.core.server.WbNettyServer:34 - 消息服务开始启动（1111）
+2020-05-11 17:36:10 [2717 [main] INFO  wb.im.core.server.WbWebNettyServer:34 - WEB消息服务开始启动（1112）
+2020-05-11 17:36:10 [2753 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:36:10 [3148 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:36:11 [3663 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:36:11 [3928 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:36:11 [3951 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:36:11 [3955 [main] INFO  wb.im.control.App:59 - Started App in 3.811 seconds (JVM running for 4.605)
+2020-05-11 17:36:11 [3958 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:36:18 [11160 [http-nio-9800-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:36:18 [11160 [http-nio-9800-exec-2] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:36:18 [11167 [http-nio-9800-exec-2] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-11 17:39:23 [195975 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:39:23 [195976 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:39:23 [195995 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:39:23 [195996 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:41 - WEB消息服务开始关闭(1112)
+2020-05-11 17:39:23 [196000 [Thread-10] INFO  wb.im.core.server.WbNettyServer:41 - 消息服务开始关闭(1111)
+2020-05-11 17:39:27 [869  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 235548 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:39:27 [872  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:39:28 [2301 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:39:28 [2316 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:39:28 [2325 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:39:28 [2325 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:39:28 [2447 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:39:28 [2447 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1343 ms
+2020-05-11 17:39:28 [2574 [main] INFO  wb.im.core.server.WbNettyServer:34 - 消息服务开始启动（1111）
+2020-05-11 17:39:28 [2576 [main] INFO  wb.im.core.server.WbWebNettyServer:34 - WEB消息服务开始启动（1112）
+2020-05-11 17:39:28 [2626 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:39:29 [3022 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:39:29 [3455 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:39:29 [3728 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:39:29 [3748 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:39:29 [3752 [main] INFO  wb.im.control.App:59 - Started App in 3.597 seconds (JVM running for 4.418)
+2020-05-11 17:39:29 [3754 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:39:32 [5998 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:39:32 [5998 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:39:32 [6005 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 6 ms
+2020-05-11 17:41:00 [94594 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:41:00 [94595 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:41:00 [94614 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:41:00 [94614 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:41 - WEB消息服务开始关闭(1112)
+2020-05-11 17:41:00 [94618 [Thread-10] INFO  wb.im.core.server.WbNettyServer:41 - 消息服务开始关闭(1111)
+2020-05-11 17:41:05 [1116 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 237524 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:41:05 [1120 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:41:06 [2580 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:41:06 [2596 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:41:06 [2605 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:41:06 [2606 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:41:06 [2739 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:41:06 [2740 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1530 ms
+2020-05-11 17:41:06 [2909 [main] INFO  wb.im.core.server.WbNettyServer:34 - 消息服务开始启动（1111）
+2020-05-11 17:41:06 [2911 [main] INFO  wb.im.core.server.WbWebNettyServer:34 - WEB消息服务开始启动（1112）
+2020-05-11 17:41:06 [2968 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:41:07 [3390 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:41:07 [3836 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:41:08 [4129 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:41:08 [4163 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:41:08 [4167 [main] INFO  wb.im.control.App:59 - Started App in 4.023 seconds (JVM running for 5.052)
+2020-05-11 17:41:08 [4170 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:41:10 [6755 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:41:10 [6755 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:41:10 [6762 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 6 ms
+2020-05-11 17:45:30 [266725 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:45:30 [266727 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:45:30 [266741 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:45:30 [266742 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:41 - WEB消息服务开始关闭(1112)
+2020-05-11 17:45:30 [266745 [Thread-10] INFO  wb.im.core.server.WbNettyServer:41 - 消息服务开始关闭(1111)
+2020-05-11 17:45:35 [935  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 237264 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:45:35 [938  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:45:37 [2283 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:45:37 [2296 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:45:37 [2304 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:45:37 [2304 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:45:37 [2407 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:45:37 [2407 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1408 ms
+2020-05-11 17:45:37 [2498 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:45:37 [2501 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:45:37 [2522 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:45:38 [2970 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:45:38 [3330 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:45:38 [3556 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:45:38 [3574 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:45:38 [3578 [main] INFO  wb.im.control.App:59 - Started App in 3.453 seconds (JVM running for 4.306)
+2020-05-11 17:45:38 [3580 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:45:42 [7949 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:45:42 [7949 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:45:42 [7956 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-11 17:45:43 [8386 [nioEventLoopGroup-4-1] INFO  w.i.c.handler.WbNettyActiveHandler:19 - 链接进来了(127.0.0.1)(webActiveHandler)
+2020-05-11 17:45:52 [17177 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:46:11 [1064 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 236888 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:46:11 [1068 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:46:13 [2431 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:46:13 [2446 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:46:13 [2454 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:46:13 [2455 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:46:13 [2570 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:46:13 [2570 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1365 ms
+2020-05-11 17:46:13 [2700 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:46:13 [2702 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:46:13 [2747 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:46:13 [3209 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:46:14 [3628 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:46:14 [3902 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:46:14 [3924 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:46:14 [3927 [main] INFO  wb.im.control.App:59 - Started App in 3.782 seconds (JVM running for 4.637)
+2020-05-11 17:46:14 [3930 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:46:19 [8454 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:46:19 [8455 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:46:19 [8462 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-11 17:46:19 [8916 [nioEventLoopGroup-4-1] INFO  w.i.c.handler.WbNettyActiveHandler:19 - 链接进来了(127.0.0.1)(webActiveHandler)
+2020-05-11 17:46:51 [40327 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:47:45 [95192 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:47:45 [95193 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:47:45 [95208 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:47:45 [95209 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-11 17:47:45 [95210 [Thread-10] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-11 17:47:51 [1384 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 237520 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:47:51 [1388 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:47:52 [2642 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:47:52 [2658 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:47:52 [2666 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:47:52 [2667 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:47:52 [2794 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:47:52 [2794 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1327 ms
+2020-05-11 17:47:52 [2938 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:47:52 [2941 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:47:53 [3003 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:47:53 [3472 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:47:53 [3913 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:47:54 [4191 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:47:54 [4219 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:47:54 [4223 [main] INFO  wb.im.control.App:59 - Started App in 4.052 seconds (JVM running for 5.063)
+2020-05-11 17:47:54 [4225 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:47:58 [8247 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:47:58 [8247 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:47:58 [8255 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-11 17:47:58 [8725 [nioEventLoopGroup-4-1] INFO  w.i.c.handler.WbNettyActiveHandler:19 - 链接进来了(127.0.0.1)(webActiveHandler)
+2020-05-11 17:48:06 [16393 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:48:10 [20044 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:48:10 [20045 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:48:10 [20061 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:48:10 [20061 [Thread-11] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-11 17:48:10 [20063 [Thread-11] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-11 17:48:49 [1151 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 237500 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:48:49 [1154 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:48:50 [2420 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:48:50 [2437 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:48:50 [2446 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:48:50 [2447 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:48:50 [2575 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:48:50 [2576 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1312 ms
+2020-05-11 17:48:50 [2690 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:48:50 [2692 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:48:50 [2725 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:48:51 [3110 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:48:51 [3561 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:48:51 [3831 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:48:51 [3850 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:48:52 [3853 [main] INFO  wb.im.control.App:59 - Started App in 3.714 seconds (JVM running for 4.461)
+2020-05-11 17:48:52 [3856 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:48:54 [6467 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:48:54 [6468 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:48:54 [6475 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-11 17:48:55 [6938 [nioEventLoopGroup-4-1] INFO  w.i.c.handler.WbNettyActiveHandler:19 - 链接进来了(127.0.0.1)(webActiveHandler)
+2020-05-11 17:49:06 [18534 [nioEventLoopGroup-4-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道(null)
+2020-05-11 17:49:18 [30692 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:49:49 [61422 [nioEventLoopGroup-4-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道(null)
+2020-05-11 17:49:49 [61423 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:50:09 [81297 [nioEventLoopGroup-4-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道(null)
+2020-05-11 17:50:09 [81298 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:50:09 [81394 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:50:09 [81395 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:50:09 [81413 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:50:09 [81413 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-11 17:50:09 [81415 [Thread-10] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-11 17:50:14 [854  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 237024 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:50:14 [857  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:50:16 [2607 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:50:16 [2621 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:50:16 [2629 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:50:16 [2629 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:50:16 [2750 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:50:16 [2750 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1301 ms
+2020-05-11 17:50:16 [2861 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:50:16 [2863 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:50:16 [2897 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:50:16 [3300 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:50:17 [3718 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:50:17 [3973 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:50:17 [3994 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:50:17 [3997 [main] INFO  wb.im.control.App:59 - Started App in 3.86 seconds (JVM running for 4.562)
+2020-05-11 17:50:17 [4000 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:50:19 [6298 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:50:19 [6299 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:50:19 [6306 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-11 17:50:20 [6747 [nioEventLoopGroup-4-1] INFO  w.i.c.handler.WbNettyActiveHandler:19 - 链接进来了(127.0.0.1)(webActiveHandler)
+2020-05-11 17:50:35 [21441 [nioEventLoopGroup-4-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-11 17:50:35 [21442 [nioEventLoopGroup-4-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-11 17:50:35 [21622 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:51:06 [53313 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:51:06 [53314 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:51:07 [53329 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:51:07 [53329 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-11 17:51:07 [53330 [Thread-10] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-11 17:51:11 [716  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 235560 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:51:11 [719  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:51:13 [2416 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:51:13 [2432 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:51:13 [2440 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:51:13 [2440 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:51:13 [2556 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:51:13 [2557 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1791 ms
+2020-05-11 17:51:13 [2684 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:51:13 [2687 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:51:13 [2741 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:51:14 [3166 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:51:14 [3592 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:51:14 [3872 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:51:14 [3893 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:51:14 [3897 [main] INFO  wb.im.control.App:59 - Started App in 3.748 seconds (JVM running for 4.532)
+2020-05-11 17:51:14 [3899 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:51:18 [7711 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:51:18 [7712 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:51:18 [7719 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-11 17:51:19 [8193 [nioEventLoopGroup-5-1] INFO  w.i.c.handler.WbNettyActiveHandler:19 - 链接进来了(127.0.0.1)(webActiveHandler)
+2020-05-11 17:51:26 [15635 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-11 17:51:26 [15636 [nioEventLoopGroup-5-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-11 17:51:47 [37047 [nioEventLoopGroup-5-2] WARN  io.netty.channel.ChannelInitializer:97 - Failed to initialize a channel. Closing: [id: 0x3e3769ba, L:/127.0.0.1:1112 - R:/127.0.0.1:50730]
+io.netty.channel.ChannelPipelineException: wb.im.core.handler.WbNettyActiveHandler is not a @Sharable handler, so can't be added or removed multiple times.
+	at io.netty.channel.DefaultChannelPipeline.checkMultiplicity(DefaultChannelPipeline.java:600)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:202)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:195)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:42)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:14)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:129)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:112)
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerAdded(AbstractChannelHandlerContext.java:956)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:609)
+	at io.netty.channel.DefaultChannelPipeline.access$100(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1463)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1115)
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:650)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:502)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:417)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:474)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-11 17:51:59 [48319 [nioEventLoopGroup-5-3] WARN  io.netty.channel.ChannelInitializer:97 - Failed to initialize a channel. Closing: [id: 0x609ab21b, L:/127.0.0.1:1112 - R:/127.0.0.1:50824]
+io.netty.channel.ChannelPipelineException: wb.im.core.handler.WbNettyActiveHandler is not a @Sharable handler, so can't be added or removed multiple times.
+	at io.netty.channel.DefaultChannelPipeline.checkMultiplicity(DefaultChannelPipeline.java:600)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:202)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:195)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:42)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:14)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:129)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:112)
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerAdded(AbstractChannelHandlerContext.java:956)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:609)
+	at io.netty.channel.DefaultChannelPipeline.access$100(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1463)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1115)
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:650)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:502)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:417)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:474)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-11 17:52:38 [87515 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:52:38 [87516 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:52:38 [87529 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:52:38 [87530 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-11 17:52:38 [87532 [Thread-10] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-11 17:52:43 [2202 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 240576 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:52:43 [2205 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:52:44 [3442 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:52:44 [3458 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:52:44 [3469 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:52:44 [3470 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:52:45 [3603 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:52:45 [3604 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1354 ms
+2020-05-11 17:52:45 [3763 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:52:45 [3766 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:52:45 [3858 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:52:45 [4364 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:52:46 [4809 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:52:46 [5094 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:52:46 [5119 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:52:46 [5122 [main] INFO  wb.im.control.App:59 - Started App in 4.98 seconds (JVM running for 6.002)
+2020-05-11 17:52:46 [5125 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:52:50 [8641 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:52:50 [8642 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:52:50 [8652 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 10 ms
+2020-05-11 17:52:50 [9106 [nioEventLoopGroup-4-1] INFO  w.i.c.handler.WbNettyActiveHandler:19 - 链接进来了(127.0.0.1)(webActiveHandler)
+2020-05-11 17:52:53 [11990 [nioEventLoopGroup-4-2] WARN  io.netty.channel.ChannelInitializer:97 - Failed to initialize a channel. Closing: [id: 0xc8339aa5, L:/127.0.0.1:1112 - R:/127.0.0.1:51195]
+io.netty.channel.ChannelPipelineException: wb.im.core.handler.WbNettyActiveHandler is not a @Sharable handler, so can't be added or removed multiple times.
+	at io.netty.channel.DefaultChannelPipeline.checkMultiplicity(DefaultChannelPipeline.java:600)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:202)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:195)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:42)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:14)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:129)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:112)
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerAdded(AbstractChannelHandlerContext.java:956)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:609)
+	at io.netty.channel.DefaultChannelPipeline.access$100(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1463)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1115)
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:650)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:502)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:417)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:474)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-11 17:53:43 [61810 [Thread-12] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:53:43 [61811 [Thread-12] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:53:43 [61838 [Thread-12] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:53:43 [61839 [Thread-12] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-11 17:53:43 [61840 [Thread-12] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-11 17:53:48 [1099 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 240644 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:53:48 [1102 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:53:50 [2585 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:53:50 [2601 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:53:50 [2610 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:53:50 [2611 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:53:50 [2742 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:53:50 [2742 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1482 ms
+2020-05-11 17:53:50 [2864 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:53:50 [2866 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:53:50 [2948 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:53:51 [3361 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:53:51 [3795 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:53:51 [4065 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:53:51 [4092 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:53:51 [4095 [main] INFO  wb.im.control.App:59 - Started App in 3.947 seconds (JVM running for 4.87)
+2020-05-11 17:53:51 [4098 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:54:02 [14373 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:54:02 [14373 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:54:02 [14380 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-11 17:54:05 [18247 [nioEventLoopGroup-5-2] WARN  io.netty.channel.ChannelInitializer:97 - Failed to initialize a channel. Closing: [id: 0x340f6bb5, L:/127.0.0.1:1112 - R:/127.0.0.1:51663]
+io.netty.channel.ChannelPipelineException: wb.im.core.handler.WbNettyMessageProcessorHandler is not a @Sharable handler, so can't be added or removed multiple times.
+	at io.netty.channel.DefaultChannelPipeline.checkMultiplicity(DefaultChannelPipeline.java:600)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:202)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:195)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:42)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:14)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:129)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:112)
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerAdded(AbstractChannelHandlerContext.java:956)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:609)
+	at io.netty.channel.DefaultChannelPipeline.access$100(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1463)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1115)
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:650)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:502)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:417)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:474)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-11 17:54:20 [32906 [nioEventLoopGroup-5-3] WARN  io.netty.channel.ChannelInitializer:97 - Failed to initialize a channel. Closing: [id: 0xa5f70956, L:/127.0.0.1:1112 - R:/127.0.0.1:51744]
+io.netty.channel.ChannelPipelineException: wb.im.core.handler.WbNettyMessageProcessorHandler is not a @Sharable handler, so can't be added or removed multiple times.
+	at io.netty.channel.DefaultChannelPipeline.checkMultiplicity(DefaultChannelPipeline.java:600)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:202)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:195)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:42)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:14)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:129)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:112)
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerAdded(AbstractChannelHandlerContext.java:956)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:609)
+	at io.netty.channel.DefaultChannelPipeline.access$100(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1463)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1115)
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:650)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:502)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:417)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:474)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-11 17:54:30 [42823 [nioEventLoopGroup-5-4] WARN  io.netty.channel.ChannelInitializer:97 - Failed to initialize a channel. Closing: [id: 0xab65c0ec, L:/127.0.0.1:1112 - R:/127.0.0.1:51799]
+io.netty.channel.ChannelPipelineException: wb.im.core.handler.WbNettyMessageProcessorHandler is not a @Sharable handler, so can't be added or removed multiple times.
+	at io.netty.channel.DefaultChannelPipeline.checkMultiplicity(DefaultChannelPipeline.java:600)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:202)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:195)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:42)
+	at wb.im.core.handler.WbNettyWebMessageHandler.initChannel(WbNettyWebMessageHandler.java:14)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:129)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:112)
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerAdded(AbstractChannelHandlerContext.java:956)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:609)
+	at io.netty.channel.DefaultChannelPipeline.access$100(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1463)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1115)
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:650)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:502)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:417)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:474)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-11 17:56:30 [162523 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:56:30 [162524 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-11 17:56:30 [162541 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-11 17:56:30 [162541 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-11 17:56:30 [162546 [Thread-10] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-11 17:56:36 [1479 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 240376 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-11 17:56:36 [1482 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-11 17:56:38 [2711 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-11 17:56:38 [2726 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:56:38 [2734 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-11 17:56:38 [2735 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-11 17:56:38 [2862 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-11 17:56:38 [2863 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1332 ms
+2020-05-11 17:56:38 [2994 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-11 17:56:38 [2996 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-11 17:56:38 [3096 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-11 17:56:38 [3586 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-11 17:56:39 [4054 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 17:56:39 [4344 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-11 17:56:39 [4383 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-11 17:56:39 [4388 [main] INFO  wb.im.control.App:59 - Started App in 4.233 seconds (JVM running for 5.671)
+2020-05-11 17:56:39 [4390 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-11 17:56:43 [8510 [http-nio-9800-exec-4] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-11 17:56:43 [8511 [http-nio-9800-exec-4] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-11 17:56:43 [8526 [http-nio-9800-exec-4] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 15 ms
+2020-05-11 17:57:00 [25424 [nioEventLoopGroup-5-3] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-11 17:57:00 [25424 [nioEventLoopGroup-5-3] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-11 17:57:06 [30725 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":2,"userId":2})
+2020-05-11 17:57:06 [30725 [nioEventLoopGroup-5-2] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(2)
+2020-05-11 17:57:20 [45339 [nioEventLoopGroup-5-3] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:58:02 [86902 [nioEventLoopGroup-5-3] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:58:55 [139947 [nioEventLoopGroup-5-3] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错

@@ -1,0 +1,310 @@
+2020-05-12 08:46:46 [53411068 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 08:46:46 [53411073 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 08:46:46 [53411075 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 08:46:46 [53411075 [Thread-11] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 08:46:46 [53411077 [Thread-11] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-12 08:46:54 [1786 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 257648 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-12 08:46:54 [1789 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-12 08:46:56 [3635 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-12 08:46:56 [3650 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-12 08:46:56 [3659 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-12 08:46:56 [3659 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-12 08:46:56 [3780 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-12 08:46:56 [3780 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1282 ms
+2020-05-12 08:46:56 [3905 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-12 08:46:56 [3908 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-12 08:46:56 [3955 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-12 08:46:56 [4432 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-12 08:46:57 [4884 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 08:46:57 [5158 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-12 08:46:57 [5183 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-12 08:46:57 [5187 [main] INFO  wb.im.control.App:59 - Started App in 5.025 seconds (JVM running for 6.268)
+2020-05-12 08:46:57 [5189 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-12 08:47:11 [19136 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-12 08:47:11 [19137 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-12 08:47:11 [19147 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 10 ms
+2020-05-12 08:47:24 [32194 [nioEventLoopGroup-4-3] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-12 08:47:24 [32195 [nioEventLoopGroup-4-3] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-12 08:47:32 [40221 [nioEventLoopGroup-4-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":2,"userId":2})
+2020-05-12 08:47:32 [40222 [nioEventLoopGroup-4-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(2)
+2020-05-12 08:47:45 [53050 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-12 08:49:32 [160535 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 08:49:32 [160536 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 08:49:32 [160556 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 08:49:33 [160557 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 08:49:33 [160559 [Thread-10] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-12 08:49:38 [787  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 241468 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-12 08:49:38 [791  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-12 08:49:39 [2286 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-12 08:49:39 [2302 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-12 08:49:39 [2311 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-12 08:49:39 [2312 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-12 08:49:39 [2438 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-12 08:49:39 [2438 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1546 ms
+2020-05-12 08:49:39 [2587 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-12 08:49:39 [2590 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-12 08:49:40 [2653 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-12 08:49:40 [3093 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-12 08:49:40 [3520 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 08:49:41 [3802 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-12 08:49:41 [3822 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-12 08:49:41 [3826 [main] INFO  wb.im.control.App:59 - Started App in 3.679 seconds (JVM running for 4.49)
+2020-05-12 08:49:41 [3828 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-12 08:49:43 [6094 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-12 08:49:43 [6095 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-12 08:49:43 [6103 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 8 ms
+2020-05-12 08:49:51 [13708 [nioEventLoopGroup-4-2] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-12 08:49:51 [13708 [nioEventLoopGroup-4-2] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-12 08:49:59 [21710 [nioEventLoopGroup-4-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":2,"userId":2})
+2020-05-12 08:49:59 [21712 [nioEventLoopGroup-4-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(2)
+2020-05-12 08:50:01 [23762 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-12 08:50:22 [44952 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 08:50:22 [44953 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 08:50:22 [44966 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 08:50:22 [44967 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 08:50:22 [44970 [Thread-10] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-12 08:50:27 [1083 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 201700 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-12 08:50:27 [1087 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-12 08:50:28 [2430 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-12 08:50:28 [2445 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-12 08:50:28 [2454 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-12 08:50:28 [2455 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-12 08:50:28 [2571 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-12 08:50:28 [2572 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1407 ms
+2020-05-12 08:50:29 [2681 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-12 08:50:29 [2684 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-12 08:50:29 [2709 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-12 08:50:29 [3122 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-12 08:50:29 [3577 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 08:50:30 [3853 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-12 08:50:30 [3878 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-12 08:50:30 [3882 [main] INFO  wb.im.control.App:59 - Started App in 3.728 seconds (JVM running for 4.509)
+2020-05-12 08:50:30 [3884 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-12 08:50:37 [10865 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-12 08:50:37 [10866 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-12 08:50:37 [10874 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 8 ms
+2020-05-12 08:50:40 [14274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-12 08:50:40 [14275 [nioEventLoopGroup-5-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-12 08:50:41 [15586 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":2,"userId":2})
+2020-05-12 08:50:41 [15586 [nioEventLoopGroup-5-2] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(2)
+2020-05-12 08:50:44 [17842 [nioEventLoopGroup-5-2] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-12 08:55:02 [275890 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 08:55:02 [275891 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 08:55:02 [275902 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 08:55:02 [275903 [Thread-11] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 08:55:02 [275904 [Thread-11] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-12 08:55:08 [1053 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 254256 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-12 08:55:08 [1057 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-12 08:55:09 [2265 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-12 08:55:09 [2282 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-12 08:55:09 [2290 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-12 08:55:09 [2291 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-12 08:55:09 [2406 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-12 08:55:09 [2406 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1304 ms
+2020-05-12 08:55:09 [2521 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-12 08:55:09 [2524 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-12 08:55:09 [2550 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-12 08:55:10 [2980 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-12 08:55:10 [3406 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 08:55:11 [3680 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-12 08:55:11 [3700 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-12 08:55:11 [3704 [main] INFO  wb.im.control.App:59 - Started App in 3.533 seconds (JVM running for 4.495)
+2020-05-12 08:55:11 [3706 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-12 08:55:28 [21183 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-12 08:55:28 [21184 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-12 08:55:28 [21191 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-12 08:55:31 [24554 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-12 08:55:31 [24555 [nioEventLoopGroup-5-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-12 08:55:33 [25630 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbLoginTokenService:51 - 用户已经加入聊天通道({"uniqueId":2,"userId":2})
+2020-05-12 08:55:33 [25631 [nioEventLoopGroup-5-2] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(2)
+2020-05-12 09:02:27 [439618 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:02:27 [439619 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 09:02:27 [439645 [Thread-10] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 09:02:27 [439645 [Thread-10] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 09:02:27 [439648 [Thread-10] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-12 09:02:34 [1408 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 237816 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-12 09:02:34 [1412 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-12 09:02:36 [2957 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-12 09:02:36 [2974 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-12 09:02:36 [2983 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-12 09:02:36 [2983 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-12 09:02:36 [3105 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-12 09:02:36 [3105 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1643 ms
+2020-05-12 09:02:36 [3239 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-12 09:02:36 [3242 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-12 09:02:36 [3312 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-12 09:02:36 [3833 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-12 09:02:37 [4297 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:02:37 [4566 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-12 09:02:37 [4591 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-12 09:02:37 [4595 [main] INFO  wb.im.control.App:59 - Started App in 4.408 seconds (JVM running for 5.298)
+2020-05-12 09:02:37 [4598 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-12 09:02:42 [9693 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-12 09:02:42 [9693 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-12 09:02:42 [9703 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 10 ms
+2020-05-12 09:02:53 [20280 [nioEventLoopGroup-4-2] INFO  w.i.c.s.impl.WbLoginTokenService:52 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-12 09:02:53 [20280 [nioEventLoopGroup-4-2] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-12 09:02:57 [24199 [nioEventLoopGroup-4-1] INFO  w.i.c.s.impl.WbLoginTokenService:52 - 用户已经加入聊天通道({"uniqueId":2,"userId":2})
+2020-05-12 09:02:57 [24200 [nioEventLoopGroup-4-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(2)
+2020-05-12 09:05:01 [148247 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:05:01 [148249 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 09:05:01 [148267 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 09:05:01 [148267 [Thread-11] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 09:05:01 [148270 [Thread-11] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-12 09:05:05 [794  [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 237220 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-12 09:05:05 [798  [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-12 09:05:07 [2697 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-12 09:05:07 [2712 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-12 09:05:07 [2722 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-12 09:05:07 [2722 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-12 09:05:07 [2849 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-12 09:05:07 [2849 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 2003 ms
+2020-05-12 09:05:08 [2970 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-12 09:05:08 [2973 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-12 09:05:08 [2998 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-12 09:05:08 [3507 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-12 09:05:09 [3941 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:05:09 [4223 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-12 09:05:09 [4245 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-12 09:05:09 [4248 [main] INFO  wb.im.control.App:59 - Started App in 4.107 seconds (JVM running for 4.826)
+2020-05-12 09:05:09 [4251 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-12 09:05:14 [9769 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-12 09:05:14 [9770 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-12 09:05:14 [9779 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 9 ms
+2020-05-12 09:05:18 [13236 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbLoginTokenService:52 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-12 09:05:18 [13237 [nioEventLoopGroup-5-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-12 09:05:19 [14341 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbLoginTokenService:52 - 用户已经加入聊天通道({"uniqueId":2,"userId":2})
+2020-05-12 09:05:19 [14342 [nioEventLoopGroup-5-2] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(2)
+2020-05-12 09:16:57 [711981 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:16:57 [711983 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 09:16:57 [712001 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 09:16:57 [712001 [Thread-11] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 09:16:57 [712004 [Thread-11] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-12 09:17:03 [1662 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 257108 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-12 09:17:03 [1665 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-12 09:17:04 [2952 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-12 09:17:04 [2967 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-12 09:17:04 [2975 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-12 09:17:04 [2976 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-12 09:17:04 [3098 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-12 09:17:04 [3098 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1390 ms
+2020-05-12 09:17:04 [3205 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-12 09:17:04 [3208 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-12 09:17:04 [3233 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-12 09:17:05 [3771 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-12 09:17:05 [4220 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:17:06 [4490 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-12 09:17:06 [4514 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-12 09:17:06 [4517 [main] INFO  wb.im.control.App:59 - Started App in 4.364 seconds (JVM running for 5.214)
+2020-05-12 09:17:06 [4519 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-12 09:17:12 [10839 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-12 09:17:12 [10839 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-12 09:17:12 [10847 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 7 ms
+2020-05-12 09:17:18 [16520 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbLoginTokenService:52 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-12 09:17:18 [16520 [nioEventLoopGroup-5-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-12 09:17:18 [16622 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:17:22 [21273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:17:27 [25661 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbLoginTokenService:52 - 用户已经加入聊天通道({"uniqueId":2,"userId":2})
+2020-05-12 09:17:27 [25662 [nioEventLoopGroup-5-2] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(2)
+2020-05-12 09:17:27 [26274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:17:31 [29779 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:17:32 [31273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:17:36 [34753 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:17:37 [36273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:17:41 [39755 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:17:42 [41273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:17:46 [44754 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:17:47 [46275 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:17:51 [49755 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:17:52 [51273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:17:56 [54755 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:17:57 [56273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:01 [59758 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:02 [61274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:06 [64758 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:07 [66273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:11 [69756 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:12 [71274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:16 [74756 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:17 [76274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:21 [79756 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:22 [81273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:26 [84758 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:27 [86273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:31 [89756 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:32 [91274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:36 [94757 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:37 [96274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:41 [99758 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:42 [101273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:46 [104757 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:47 [106273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:51 [109762 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:52 [111275 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:18:56 [114759 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:18:57 [116274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:19:01 [119761 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:19:02 [121274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:19:06 [124762 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:19:07 [126273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:19:11 [129762 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:19:12 [131275 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:19:16 [134761 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:19:17 [136275 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:19:21 [139762 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:19:22 [141273 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:19:26 [144761 [nioEventLoopGroup-5-2] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"on7tRoWnrJezsBjkFl6JiQ=="})
+2020-05-12 09:19:27 [146274 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:19:27 [146303 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:19:27 [146304 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 09:19:27 [146317 [Thread-11] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 09:19:27 [146318 [Thread-11] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 09:19:27 [146319 [Thread-11] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)
+2020-05-12 09:20:02 [1007 [main] INFO  wb.im.control.App:50 - Starting App on AQH5Q7JUUOCEZG5 with PID 256760 (F:\battleSpace\im-platform\im-control\im-stage\target\classes started by Administrator in F:\battleSpace\im-platform)
+2020-05-12 09:20:02 [1010 [main] INFO  wb.im.control.App:650 - The following profiles are active: dev
+2020-05-12 09:20:03 [2485 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:90 - Tomcat initialized with port(s): 9800 (http)
+2020-05-12 09:20:03 [2502 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9800"]
+2020-05-12 09:20:04 [2512 [main] INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2020-05-12 09:20:04 [2513 [main] INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-05-12 09:20:04 [2636 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2020-05-12 09:20:04 [2636 [main] INFO  o.s.web.context.ContextLoader:283 - Root WebApplicationContext: initialization completed in 1537 ms
+2020-05-12 09:20:04 [2741 [main] INFO  wb.im.core.server.WbNettyServer:35 - 消息服务开始启动（1111）
+2020-05-12 09:20:04 [2744 [main] INFO  wb.im.core.server.WbWebNettyServer:35 - WEB消息服务开始启动（1112）
+2020-05-12 09:20:04 [2768 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2020-05-12 09:20:04 [3179 [main] INFO  c.a.druid.pool.DruidDataSource:1003 - {dataSource-1} inited
+2020-05-12 09:20:05 [3594 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:20:05 [3862 [main] INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9800"]
+2020-05-12 09:20:05 [3885 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer:202 - Tomcat started on port(s): 9800 (http) with context path ''
+2020-05-12 09:20:05 [3889 [main] INFO  wb.im.control.App:59 - Started App in 3.748 seconds (JVM running for 4.505)
+2020-05-12 09:20:05 [3892 [main] INFO  wb.im.control.App:17 - 消息系统服务端启动完成
+2020-05-12 09:20:12 [10532 [http-nio-9800-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-12 09:20:12 [10532 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-05-12 09:20:12 [10541 [http-nio-9800-exec-1] INFO  o.s.web.servlet.DispatcherServlet:546 - Completed initialization in 8 ms
+2020-05-12 09:20:13 [12454 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbLoginTokenService:52 - 用户已经加入聊天通道({"uniqueId":1,"userId":1})
+2020-05-12 09:20:13 [12455 [nioEventLoopGroup-5-1] INFO  wb.im.core.cache.ChannelCache:73 - 用户加入(1)
+2020-05-12 09:20:17 [15917 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:20:22 [20915 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:20:27 [25916 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:20:32 [30915 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:20:37 [35915 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:20:42 [41225 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:20:47 [46229 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:20:52 [51225 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:20:57 [56229 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:02 [61228 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:07 [66228 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:12 [71227 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:17 [76227 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:22 [81246 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:27 [86227 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:32 [91228 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:37 [96227 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:42 [101231 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:47 [106228 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:52 [111239 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:21:57 [116228 [nioEventLoopGroup-5-1] INFO  w.i.c.s.impl.WbHeartBeatService:28 - 收到心跳({"businessKey":0,"content":"ping","msgType":1,"token":"k8Vm0485aib9EV+ZGR/h9Q=="})
+2020-05-12 09:22:01 [120383 [Thread-9] INFO  o.s.s.c.ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-12 09:22:01 [120384 [Thread-9] INFO  c.a.druid.pool.DruidDataSource:1948 - {dataSource-1} closing ...
+2020-05-12 09:22:01 [120402 [Thread-9] INFO  c.a.druid.pool.DruidDataSource:2020 - {dataSource-1} closed
+2020-05-12 09:22:01 [120402 [Thread-9] INFO  wb.im.core.server.WbWebNettyServer:42 - WEB消息服务开始关闭(1112)
+2020-05-12 09:22:01 [120404 [Thread-9] INFO  wb.im.core.server.WbNettyServer:42 - 消息服务开始关闭(1111)

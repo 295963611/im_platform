@@ -1,0 +1,51 @@
+spring:
+  datasource:
+    name: druidDataSource
+    type: com.alibaba.druid.pool.DruidDataSource
+    filters: stat,wall,log4j,config
+    druid:
+      username: root
+      password: 111111
+      url: jdbc:mysql://127.0.0.1:3306/im?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8
+      driverClassName: com.mysql.jdbc.Driver
+      max-active: 100
+      initial-size: 20
+      max-wait: 60000
+      min-idle: 20
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      validation-query: select 'x'
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      pool-prepared-statements: true
+      max-open-prepared-statements: 20
+
+  thymeleaf:
+    mode: HTML
+    suffix: .html
+    encoding: UTF-8
+    enabled: true
+    prefix: classpath:/templates/
+    cache: false
+
+server:
+  port: 9800
+  servlet:
+    context-path: /
+
+logging:
+  config: classpath:log/logback-test.xml
+
+mybatis-plus:
+  mapper-locations: classpath*:/wb/im/domain/mapper/*Mapper.xml
+
+
+#IM TOKEN 加密KEY
+im:
+  token:
+    key: 1111111111111111
+  server:
+    port: 1111
+  web-server:
+    port: 1112

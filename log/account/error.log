@@ -1,0 +1,3 @@
+2020-05-12 08:47:45 [53050 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-12 08:50:01 [23762 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-12 08:50:44 [17842 [nioEventLoopGroup-5-2] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错

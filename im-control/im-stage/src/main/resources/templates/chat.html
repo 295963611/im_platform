@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>聊天</title>
+    <script th:src="@{/js/jquery-3.4.1.min.js}"></script>
+</head>
+<script>
+
+    var currToken;
+
+    var currUserId;
+
+    var ws = new WebSocket("ws://127.0.0.1:1112/ws");
+    ws.onopen = function (evt) {
+        console.log("Connection open ...");
+    };
+    ws.onmessage = function (event) {
+        if (typeof event.data === String) {
+            console.log("Received data string");
+        }
+
+        if (event.data instanceof ArrayBuffer) {
+            var buffer = event.data;
+            console.log("Received arraybuffer");
+        }
+        $("#content").append(event.data);
+        console.log("Received Message: " + event.data);
+    };
+
+    function send() {
+        var params = new Map();
+
+        var params = new Object();
+        params["token"] = currToken;
+        params["businessKey"] = 20000;
+        params["msgType"] = 1;
+        params["content"] = $("#message").val();
+        params["toUserId"] = currUserId == 1 ? 2 : 1;
+        var json = JSON.stringify(params);
+        console.log(json);
+        ws.send(json)
+    }
+
+    function login(token, userId) {
+        currToken = token;
+        currUserId = userId;
+        var params = new Object();
+        params["token"] = token;
+        params["businessKey"] = 10000;
+        params["msgType"] = 1;
+        var json = JSON.stringify(params);
+        console.log(json);
+        ws.send(json)
+    }
+
+    function heartbeat() {
+        if (currToken != null) {
+            var params = new Object();
+            params["token"] = currToken;
+            params["businessKey"] = 0;
+            params["msgType"] = 1;
+            params["content"] = "ping";
+            var json = JSON.stringify(params);
+            ws.send(json)
+        }
+
+    }
+
+    setInterval(heartbeat, 5000);
+
+</script>
+<body>
+<input th:type="button" onclick="login('k8Vm0485aib9EV+ZGR/h9Q==',1)" th:value="登陆账号1">
+<input th:type="button" onclick="login('on7tRoWnrJezsBjkFl6JiQ==',2)" th:value="登陆账号2">
+<input th:type="text" th:id="message">
+<input th:type="button" onclick="send()" th:value="发送">
+<div th:id="content"></div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\dto\MessageDto.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\constant\BusinessKeyEnums.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\handler\WbNettyMessageHandler.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\server\WbWebNettyServer.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\vo\MessageVo.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\cache\ChannelCache.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\handler\WbNettyMessageProcessorHandler.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\handler\WbNettyWebMessageHandler.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\service\IWbMessageService.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\vo\MessageInfoVo.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\vo\UserSimpleVo.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\service\impl\WbMessageService.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\constant\StatusConstant.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\server\WbNettyServer.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\adapter\WbMessageAdapter.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\handler\WbNettyActiveHandler.java
+F:\battleSpace\im-platform\im-core\src\main\java\wb\im\core\service\impl\WbLoginTokenService.java

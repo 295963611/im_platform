@@ -1,0 +1,10 @@
+2020-05-11 17:45:52 [17177 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:46:51 [40327 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:48:06 [16393 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:49:18 [30692 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:49:49 [61423 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:50:09 [81298 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:50:35 [21622 [nioEventLoopGroup-4-1] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:57:20 [45339 [nioEventLoopGroup-5-3] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:58:02 [86902 [nioEventLoopGroup-5-3] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错
+2020-05-11 17:58:55 [139947 [nioEventLoopGroup-5-3] ERROR wb.im.core.adapter.WbMessageAdapter:53 - 适配器转发信息出错

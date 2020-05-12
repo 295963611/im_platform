@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="wb.im.domain.mapper.account.WbMessageInfoMapper">
+  <resultMap id="BaseResultMap" type="wb.im.domain.model.account.WbMessageInfo">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="from_user_id" jdbcType="INTEGER" property="fromUserId" />
+    <result column="to_user_id" jdbcType="INTEGER" property="toUserId" />
+    <result column="business_type" jdbcType="SMALLINT" property="businessType" />
+    <result column="msg_type" jdbcType="SMALLINT" property="msgType" />
+    <result column="status" jdbcType="SMALLINT" property="status" />
+    <result column="add_date" jdbcType="TIMESTAMP" property="addDate" />
+    <result column="read_date" jdbcType="TIMESTAMP" property="readDate" />
+    <result column="update_date" jdbcType="TIMESTAMP" property="updateDate" />
+    <result column="content" jdbcType="LONGVARCHAR" property="content" />
+  </resultMap>
+</mapper>
