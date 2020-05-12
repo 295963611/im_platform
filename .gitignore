@@ -1,0 +1,24 @@
+#workspace Files
+.bpmn/
+bin/
+target/
+.settings/
+.classpath
+.project
+/log/
+*.tmp
+*.class
+*.iml
+*.log
+*.mvn
+.idea/
+.DS_Store
+.apt_generated
+.factorypath
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
